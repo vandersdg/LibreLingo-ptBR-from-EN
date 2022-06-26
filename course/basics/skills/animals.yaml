@@ -1,0 +1,137 @@
+Skill:
+  Name: Animals
+  Id: 2
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: cão
+    Synonyms:
+      - cachorro
+    Translation: dog
+    Also accepted:
+      - houmd
+    Imagé:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: gato
+    Translation: cat
+    Imagé:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: urso
+    Translation: bear
+    Imagé:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: leão
+    Translation: lion
+    Imagé:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: pato
+    Translation: duck
+    Imagé:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: cavalo
+    Translation: horse
+    Imagé:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: o gato
+    Translation: the cat
+    Imagé:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: um urso
+    Translation: a bear
+    Imagé:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: um leão
+    Translation: a lion
+    Imagé:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: o pato
+    Translation: the duck
+    Imagé:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: um cavalo
+    Translation: a horse
+    Imagé:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: o cão
+    Synonyms:
+      - o cachorro
+    Translation: the dog
+    Also accepted:
+      - the hound
+    Imagé:
+      - dog1
+      - dog2
+      - dog3
+
+Phrasé:
+  - Phrase: É um cavalo
+    Translation: It's a horse
+
+  - Phrase: Max é um cão
+    Alternative versions:
+      - Max é um cachorro
+    Translation: Max is a dog
+
+  - Phrase: Um pato e um cavalo
+    Translation: A duck and a horse
+
+Mini-dictionary:
+  Portuguese:
+    - um: a/an (masc.)
+    - é: is
+    - Max: Max (name)
+    - e: and
+    - bom: good
+
+
+  English:
+    - the:
+        - a
+        - o
+    - it's: é
+    - a:
+      - um
+      - uma
+    - Max: Max (name)
+    - is: é
+    - and: e
+    - enjoy: desfrutar
+    - meal:
+      - comida
+    - bread: pão

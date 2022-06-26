@@ -1,0 +1,157 @@
+Skill:
+  Name: Plurals
+  Id: 11
+
+New words:
+  - Word: gatos
+    Translation: cats
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: praias
+    Translation: beaches
+    Images:
+      - beach1
+      - beach2
+      - beach3
+
+  - Word: patos
+    Translation: ducks
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: camisas
+    Translation: shirts
+    Images:
+      - shirt1
+      - shirt2
+      - shirt3
+
+  - Word: estudantes
+    Translation: students
+    Images:
+      - student1
+      - student2
+      - student3
+
+  - Word: morangos
+    Translation: strawberries
+    Images:
+      - strawberry1
+      - strawberry2
+      - strawberry3
+
+  - Word: óculos
+    Translation: glasses
+    Images:
+      - glasses1
+      - glasses2
+      - glasses3
+
+  - Word: médicos
+    Translation: doctors
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+
+  - Word: os gatos
+    Translation: the cats
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: as praias
+    Translation: the beaches
+    Images:
+      - beach1
+      - beach2
+      - beach3
+
+  - Word: os patos
+    Translation: the ducks
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: as camisas
+    Translation: the shirts
+    Images:
+      - shirt1
+      - shirt2
+      - shirt3
+
+  - Word: os estudantes
+    Translation: the students
+    Images:
+      - student1
+      - student2
+      - student3
+
+  - Word: os morangos
+    Translation: the strawberries
+    Images:
+      - strawberry1
+      - strawberry2
+      - strawberry3
+
+  - Word: os óculos
+    Translation: the glasses
+    Images:
+      - glasses1
+      - glasses2
+      - glasses3
+
+  - Word: os médicos
+    Translation: the doctors
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+
+Phrases:
+  - Phrase: Gatos verdes
+    Translation: green cats
+
+  - Phrase: Praias bonitas
+    Translation: Beautiful beaches
+    Also accepted:
+      - Pretty beaches
+
+  - Phrase: as camisas são vermelhas
+    Translation: The shirts are red
+
+  - Phrase: os gatos são estudantes
+    Translation: The cats are students
+
+  - Phrase: os óculos são grandes
+    Translation: The glasses are big
+
+  - Phrase: os patos são médicos
+    Translation: The ducks are doctors
+
+Mini-dictionary:
+  English:
+    - cats: gatos
+    - green:
+      - verde
+      - verdes
+    - red:
+      - vermelho
+      - vermelhos
+      - vermelha
+      - vermelhas
+
+  Portuguese:
+    - gatos: cats
+    - verdes: green
+    - bonitas: beautiful
+    - aas: the
+    - vermelhas: red
+

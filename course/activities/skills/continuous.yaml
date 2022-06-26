@@ -1,0 +1,117 @@
+Skill:
+  Name: Continuous
+  Id: 17
+
+New words: []
+
+Phrases:
+  - Phrase: Nós estamos cozinhando a janta
+    Alternative versions:
+      - Estamos cozinhando a janta
+    Translation: We are cooking dinner
+    Alternative translations:
+      - We're cooking dinner
+
+  - Phrase: Eu estou fazendo este exercício
+    Alternative:
+      - estou fazendo este exercício
+    Translation: I am doing this exercise
+    Alternative translations:
+      - I'm doing this exercise
+
+  - Phrase: Oes estão jogando
+    Alternative versions:
+      - Oas estão jogando
+    Translation: They are playing
+    Alternative translations:
+      - They're playing
+
+  - Phrase: Você está escutando?
+    Translation: Are you listening?
+
+  - Phrase: Você está aprendendo muito
+    Translation: You are learning a lot
+    Alternative translations:
+      - You're learning a lot
+
+  - Phrase: O pato está abraçando o gato
+    Translation: The duck is hugging the cat
+
+  - Phrase: Ela está nadando no mar
+    Translation: She is swimming in the sea
+    Alternative translations:
+      She's swimming in the sea
+
+  - Phrase: Ele está comendo chocolate
+    Translation: He is eating chocolate
+    Alternative translations:
+      - He's eating chocolate
+
+  - Phrase: Vocês estão escrevendo uma carta?
+    Alternative versions:
+      - Eles estão escrevendo uma carta? 
+      - Elas estão escrevendo uma carta? 
+    Translation: Are they writing a letter?
+
+  - Phrase: Nós vamos ao parque
+    Alternative versions:
+      - Vamos ao parque
+      - Estamos indo ao parque
+    Translation: We are going to the park
+    Alternative translations:
+      - We're going to the park
+
+  - Phrase: Eu estou cantando uma canção
+    Alternative versions:
+      - estou cantando uma canção
+    Translation: I am singing a song
+    Alternative translations:
+      - I'm singing a song
+
+Mini-dictionary:
+  English:
+    - cooking: cozinhando
+    - dinner: janta
+    - doing: fazendo
+    - this:
+      - esta
+      - este
+      - esto
+      - isto
+    - exercise:
+      - exercício
+    - playing: jogando
+    - listening: escutando
+    - learning: aprendendo
+    - hugging: abraçando
+    - swimming: nadando
+    - eating: comendo
+    - chocolate: chocolate
+    - writing: escrevendo
+    - letter: carta
+    - going: indo
+    - singing: cantando
+    - song: canção
+
+  Portuguese:
+    - cozinhando: cooking
+    - janta: cooking
+    - fazendo: doing
+    - este: this
+    - exercício: exercise
+    - jogando: playing
+    - escutando: listening
+    - você está: you are
+    - aprendendo: learning
+    - abraçando: hugging
+    - ao: to the
+    - nadando: swimming
+    - chocolate: chocolate
+    - comendo: eating
+    - escrevendo: writing
+    - carta: letter
+    - vamos:
+      - we're going
+      - we are going
+    - cantando: singing
+    - canção: song

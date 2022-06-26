@@ -1,0 +1,119 @@
+Skill:
+  Name: Nature
+  Id: 8
+  Thumbnails:
+    - sky1
+    - river2
+    - sun3
+  
+New words:
+  - Word: céu
+    Translation: sky
+    Images:
+      - sky1
+      - sky2
+      - sky3
+
+  - Word: río
+    Translation: river
+    Images:
+      - river1
+      - river2
+      - river3
+
+  - Word: sol
+    Translation: sun
+    Images:
+      - sun1
+      - sun2
+      - sun3
+
+  - Word: mar
+    Translation: sea
+    Images:
+      - sea1
+      - sea2
+      - sea3
+
+  - Word: montanha
+    Translation: mountain
+    Images:
+      - mountain1
+      - mountain2
+      - mountain3
+
+  - Word: lago
+    Translation: lake
+    Images:
+      - lake1
+      - lake2
+      - lake3
+
+  - Word: praia
+    Translation: beach
+    Images:
+      - beach1
+      - beach2
+      - beach3
+
+  - Word: o céu
+    Translation: the sky
+    Images:
+      - sky1
+      - sky2
+      - sky3
+
+  - Word: um río
+    Translation: a river
+    Images:
+      - river1
+      - river2
+      - river3
+
+  - Word: o sol
+    Translation: the sun
+    Images:
+      - sun1
+      - sun2
+      - sun3
+
+  - Word: o mar
+    Translation: the sea
+    Images:
+      - sea1
+      - sea2
+      - sea3
+
+  - Word: a montanha
+    Translation: the mountain
+    Images:
+      - mountain1
+      - mountain2
+      - mountain3
+
+  - Word: um lago
+    Translation: a lake
+    Images:
+      - lake1
+      - lake2
+      - lake3
+
+  - Word: a praia
+    Translation: the beach
+    Images:
+      - beach1
+      - beach2
+      - beach3
+
+Phrases:
+  - Phrase: Boa viagem!
+    Translation: Have a good trip!
+    Also accepted:
+      - Have a nice trip!
+
+  - Phrase: Vamos para a praia!
+    Translation: Let's go to the beach!
+
+  - Phrase: Mar ou montanha?
+    Translation: Sea or mountain?
+

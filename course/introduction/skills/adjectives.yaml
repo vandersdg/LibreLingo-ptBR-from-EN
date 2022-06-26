@@ -1,0 +1,208 @@
+Skill:
+  Name: Adjectives
+  Id: 15
+
+New words:
+  - Word: rato
+    Translation: mouse
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+  - Word: elefante
+    Translation: elephant
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
+  - Word: parque
+    Translation: park
+    Images:
+      - park1
+      - park2
+      - park3
+
+  - Word: o rato
+    Translation: the mouse
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+  - Word:  o elefante
+    Translation: the elephant
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
+  - Word: o parque
+    Translation: the park
+    Images:
+      - park1
+      - park2
+      - park3
+
+Phrases:
+  - Phrase: Cecilia é alta
+    Translation: Cecilia is tall
+
+  - Phrase: Max é alto
+    Translation: Max is tall
+
+  - Phrase: Eu sou velho
+    Translation: I am old
+
+  - Phrase: Ela é velha
+    Alternative versions:
+      - É velha
+      - É velho
+    Translation: She is old
+
+  - Phrase: Ele é velho
+    Alternative versions:
+      - É velha
+      - É velho
+    Translation: He is old
+
+  - Phrase: Eu sou grande
+    Alternative versions:
+      - Sou grande
+    Translation: I am big
+    Alternative translations:
+      - I'm big
+
+  - Phrase: Ela é grande
+    Alternative versions:
+      - É grande
+    Translation: She's big
+    Alternative translations:
+      - She is big
+
+  - Phrase: Nós somos grandes
+    Alternative versions:
+      - Somos grandes
+    Translation: We're big
+    Alternative translations:
+      - We are big
+
+  - Phrase: Elas são grandes
+    Alternative versions:
+      - São grandes
+    Translation: They are big
+
+  - Phrase: Eles são pequenos
+    Alternative versions:
+      - São pequenos
+    Translation: They're small
+    Alternative translations:
+      - They are small
+
+  - Phrase: Os gatos são pequenos
+    Translation: The cats are small
+
+  - Phrase: Os velhos comem carne
+    Translation: The old ones eat meat
+    Alternative translations:
+      - The old eat meat
+
+
+  - Phrase: Max não é baixo
+    Translation: Max is not short
+    Alternative translations:
+      - Max isn't short
+
+
+  - Phrase: O cão é pequeno e velho
+    Translation: The dog is small and old
+    Alternative translations:
+      - The dog's small and old
+
+
+  - Phrase: O parque é pequeno
+    Translation: The park is small
+    Alternative translations:
+      - The park's small
+
+  - Phrase: O parque é grande
+    Translation: The park is big
+    Alternative translations:
+      - The park's big
+
+
+  - Phrase: O rato é pequeno
+    Translation: The mouse is small
+    Alternative translations:
+      - The mouse's small
+
+  - Phrase: Os elefantes são grandes, os ratos são pequenos
+    Translation: The elephants are big, the mice are small
+    Alternative translations:
+      - Elephants are big, mice are small
+
+  - Phrase: Os grandes ratos trabalham
+    Translation: The big mice work
+
+Mini-dictionary:
+  English:
+    - tall:
+      - alto
+      - alta
+      - altos
+      - altas
+    - old:
+      - velho
+      - velha
+      - velhos
+      - velhas
+    - she's:
+      - ela é
+      - ela está
+    - we're:
+      - somos
+      - estamos
+    - they're:
+      - são
+      - eles são
+      - elas são
+    - ones: uns
+    - meat: carne
+    - not: "não"
+    - short:
+      - baixo
+      - baixa
+      - curto
+      - curta
+    - elephants: elefantes
+    - mice: ratos
+    - work:
+      - trabalham
+      - trabalho
+
+  Portuguese:
+    - alta: tall
+    - alto: tall
+    - velho: old
+    - velha: old
+    - pequenos: small
+    - velhos:
+      - old
+      - old ones
+    - comem:
+      - eat
+      - they eat
+      - you eat
+    - carne: meat
+    - "não": "no"
+    - baixo:
+      - short
+      - low
+      - below
+    - elefantes: elephants
+    - ratos: mice
+    - trabalham:
+      - they work
+      - you work
+

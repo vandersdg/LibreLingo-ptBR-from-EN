@@ -1,0 +1,143 @@
+Skill:
+  Name: Food
+  Id: 1
+  Thumbnails:
+    - bread1
+    - milk2
+    - pasta3
+  
+New words:
+  - Word: pão
+    Translation: bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: leite
+    Translation: milk
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+  - Word: macarrão
+    Translation: pasta
+    Images:
+      - pasta1
+      - pasta2
+      - pasta3
+
+  - Word: casal
+    Translation: couple
+    Images:
+      - couple1
+      - couple2
+      - couple3
+
+  - Word: o pão
+    Translation: the bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: o leite
+    Translation: the milk
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+  - Word: o macarrão
+    Translation: the pasta
+    Images:
+      - pasta1
+      - pasta2
+      - pasta3
+
+  - Word: o casal
+    Translation: the couple
+    Images:
+      - couple1
+      - couple2
+      - couple3
+
+Phrases:
+  - Phrase: Bom apetite
+    Translation: Enjoy euur meal
+
+  - Phrase: Por favor
+    Translation: Please
+
+  - Phrase: pão, por favor
+    Translation: Bread, please
+
+  - Phrase: Água, por favor
+    Translation: Water, please
+
+  - Phrase: Cecília bebe água
+    Translation: Cecilia drinks water
+
+  - Phrase: o casal bebe cerveja
+    Translation: The couple drinks beer
+
+  - Phrase: José come pão
+    Translation: José eats bread
+
+  - Phrase: Eu como macarrão
+    Translation: I eat pasta
+
+
+Mini-dictionary:
+  English:
+    - please: por favor
+    - water: água
+    - Cecilia: Cecília (name)
+    - drinks:
+      - bebe
+      - bebidas
+    - beer: cerveja
+    - José: José (name)
+    - eats: come
+    - I: eu
+    - eat:
+      - come
+      - comer
+    - like:
+      - gosto
+      - como
+    - it:
+      - o
+      - isso
+    - how:
+      - como
+    - much:
+      - muita
+      - muito
+
+  Portuguese:
+    - por: for
+    - favor: favor
+    - água: water
+    - Cecilia: Cecilia (name)
+    - bebe: drinks
+    - cerveja: beer
+    - a: the
+    - José: José (name)
+    - come: eats
+    - eu:
+        - I
+        - me
+    - como:
+      - I eat
+      - like
+    - gosto:
+      - gusta
+      - taste
+    - quanto:
+      - how much
+      - how many
+    - custa:
+      - cost
+      - costs

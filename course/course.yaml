@@ -1,0 +1,34 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Brazilian portuguese
+    IETF BCP 47: pt-BR
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  Repository: https://github.com/kantord/LibreLingo-ES-from-EN
+  Special characters:
+    - "á"
+    - "Á"
+    - "Ã"
+    - "ã"
+    - "é"
+    - "ê"
+    - "É"
+    - "í"
+    - "Í"
+    - "ó"
+    - "Ó"
+    - "ú"
+    - "Ú"
+   
+
+Modules:
+  - basics/
+  - introduction/
+  - activities/

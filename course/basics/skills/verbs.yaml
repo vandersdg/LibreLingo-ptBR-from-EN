@@ -1,0 +1,50 @@
+Skill:
+  Name: Verbs
+  Id: 9
+
+New words: []
+  
+Phrases:
+  - Phrase: Eu sou um gato
+    Alternative versions:
+      - sou um gato
+    Translation: I am a cat
+    Also accepted:
+      - I'm a cat
+
+  - Phrase: Você é grande
+    Translation: You are big
+    Also accepted:
+      - You're big
+
+  - Phrase: O cavalo é pequeno
+    Translation: The horse is small
+
+  - Phrase: Eu como pão
+    Translation: I eat bread
+
+  - Phrase: Você come macarrão
+    Translation: You eat pasta
+
+  - Phrase: Ela come pizza
+    Translation: She eats pizza
+
+  - Phrase: Ele come pão
+    Translation: He eats bread
+
+  - Phrase: Eu bebo cerveja
+    Translation: I drink beer
+
+  - Phrase: Você bebe leite
+    Translation: You drink milk
+
+  - Phrase: Maria bebe cerveja
+    Translation: Maria drinks beer
+
+  - Phrase: O cavalo bebe água
+    Translation: The horse drinks water
+
+
+
+
+

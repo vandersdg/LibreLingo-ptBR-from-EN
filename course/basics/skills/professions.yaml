@@ -1,0 +1,149 @@
+Skill:
+  Name: Professions
+  Id: 12
+
+New words:
+  - Word: médico
+    Synonyms:
+      - médica
+    Translation: doctor
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+
+  - Word: bombeira
+    Synonyms:
+      - bombeiro
+    Translation: firefighter
+    Images:
+      - firefighter1
+      - firefighter2
+      - firefighter3
+
+  - Word: bombeiro
+    Synonyms:
+      - bombeira
+    Translation: firefighter
+    Images:
+      - firefighter1
+      - firefighter2
+      - firefighter3
+
+
+  - Word: fazendeira
+    Synonyms:
+      - fazendeiro
+    Translation: farmer
+    Images:
+      - farmer1
+      - farmer2
+      - farmer3
+
+
+  - Word: fazendeiro
+    Synonyms:
+      - fazendeira
+    Translation: farmer
+    Images:
+      - farmer1
+      - farmer2
+      - farmer3
+  
+  - Word: uma médica
+    Synonyms:
+      - um médico
+    Translation: a doctor
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+
+  - Word: fazendeiras
+    Synonyms:
+      - fazendeiros
+    Translation: farmers
+    Images:
+      - farmer1
+      - farmer2
+      - farmer3
+
+
+Phrases:
+  - Phrase: A médica bebe água
+    Alternative versions:
+      - A médica bebe água
+    Translation: The doctor drinks water
+
+  - Phrase: O garçom trabalha
+    Alternative versions:
+      - A garçonete trabalha
+    Translation: The waiter works
+
+  - Phrase: As bombeiras chegam
+    Alternative versions:
+      - Os bombeiros chegam
+    Translation: The firefighters arrive
+
+  - Phrase: O fazendeiro vê os animais
+    Alternative versions:
+      - A fazendeira vê os animais
+    Translation: The farmer sees the animals
+
+  - Phrase: Os enfermeiros moram aqui
+    Alternative versions:
+      - As enfermeiras moram aqui
+    Translation: The nurses live here
+
+  - Phrase: O cantor canta muito bem
+    Alternative versions:
+      - O cantor canta bem
+      - A cantora canta bem
+    Translation: The singer sings well
+
+Mini-dictionary:
+  Portuguese:
+    - médico: doctor
+    - garçom: waiter
+    - garçonete: waiter
+    - trabalha: works
+    - bombeiros: firefighters
+    - chegam: arrive
+    - vê: sees
+    - animais: animals
+    - enfermeiros: nurses
+    - moram: live
+    - aqui: here
+    - cantor: singer
+    - canta: sings
+    - bem: well
+
+  English:
+    - waiter: 
+      - garçom
+      - garçonete
+    - works:
+      - trabalha
+      - funciona
+    - arrive:
+      - chegam
+      - chego
+      - chega
+    - firefighters:
+      - bombeiros
+      - bombeiras
+    - sees: vê
+    - animals: animais
+    - nurses:
+      - enfermeiros
+      - enfermeiras
+    - live:
+        - vive
+        - moram
+        - vivo
+        - moro
+        - mora
+    - here: aqui
+    - singer: cantor
+    - sings: canta
+    - well: bem

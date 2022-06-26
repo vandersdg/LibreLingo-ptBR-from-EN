@@ -1,0 +1,102 @@
+Skill:
+  Name: Preferences
+  Id: 13
+
+New words:
+  - Word: café
+    Translation: coffee
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
+  - Word: vinho
+    Translation: wine
+    Images:
+      - wine1
+      - wine2
+      - wine3
+
+  - Word: cerveja
+    Translation: beer
+    Images:
+      - beer1
+      - beer2
+      - beer3
+
+  - Word: um café
+    Translation: a coffee
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
+  - Word: o vinho
+    Translation: the wine
+    Images:
+      - wine1
+      - wine2
+      - wine3
+
+
+
+Phrases:
+  - Phrase: Você gosta de café?
+   Alternative versions:
+      - Gosta de café?
+    Translation: Do you like coffee?
+
+  - Phrase: Eu gosto de macarrão
+   Alternative versions:
+      - Gosto de macarrão
+    Translation: I like macarrão
+
+  - Phrase: Eu gosto de cerveja
+   Alternative versions:
+      - Gosto de cerveja
+    Translation: I like beer
+
+  - Phrase: Não gosto de vinho
+    Alternative versions:
+      - Eu não gosto de vinho
+    Translation: I don't like wine
+
+  - Phrase: Ele não come carne
+    Translation: He doesn't eat meat
+
+  - Phrase: Eu bebo vinho
+    Alternative versions:
+      - Bebo vinho
+    Translation: I drink wine
+
+  - Phrase: Cecília não come macarrão
+    Translation: Cecilia doesn't eat macarrão
+
+  - Phrase: Uma cerveja, por favor!
+    Translation: A beer please!
+
+  - Phrase: Você gosta de vinho?
+    Translation: Do you like wine?
+
+  - Phrase: Você não gosta de pão?
+    Translation: Don't you like bread?
+    Alternative translations:
+      - You don't like bread?
+
+
+Mini-dictionary:
+  English:
+    - do:
+      - faz
+      - faço
+      - fazes
+      - fazemos
+    - don't: "não"
+    - doesn't: "não"
+
+  Portuguese:
+    - uma:
+      - a
+      - one
+
+

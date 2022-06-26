@@ -1,0 +1,127 @@
+Skill:
+  Name: Ser/estar
+  Id: 16
+
+New words: []
+
+Phrases:
+  - Phrase: Eu sou um estudante
+    Alternative versions:
+      - Sou estudante
+      - Sou um estudante
+    Translation: I am a student
+    Alternative translations:
+      - I'm a student
+
+  - Phrase: Eu estou na escola
+    Alternative versions:
+      - Estou na escola
+    Translation: I am at school
+    Alternative translations:
+      - I am in school
+
+  - Phrase: Ela é enfermeira
+    Translation: She is a nurse
+    Alternative translations:
+      - She's a nurse
+
+  - Phrase: Ela está doente
+    Translation: She's ill
+    Alternative translations:
+      - She is ill
+      - She's sick
+      - She is sick
+
+  - Phrase: Nós estamos na cidade
+    Alternative versions:
+      - Estamos na cidade
+    Translation: We are in the city
+    Alternative translations:
+      - We're in the city
+
+  - Phrase: O gato está limpo
+    Alternative versions:
+      - A gata está limpa
+    Translation: The cat is clean
+    Alternative translations:
+      - The cat's clean
+
+  - Phrase: Eles estão prontos
+    Translation: They are ready
+    Alternative translations:
+      - They're ready
+
+  - Phrase: Eles são inteligentes
+    Translation: They are smart
+    Alternative translations:
+      - They're smart
+
+  - Phrase: Vocês são médicos?
+    Alternative versions:
+      - Vocês são médicas?
+    Translation: Are you doctors?
+
+  - Phrase: Você está contente?
+    Alternative versions:
+      - Você está feliz?
+      - Você está alegre?
+    Translation: Are you happy?
+
+
+Mini-dictionary:
+  English:
+    - student: estudante
+    - at: em
+    - in: em
+    - city: cidade
+    - school: escola
+    - nurse:
+      - enfermeiro
+      - enfermeira
+    - ill:
+      - doente
+    - clean:
+      - limpo
+      - limpa
+      - limpar
+    - ready:
+      - pronto
+      - preparar
+    - smart:
+      - inteligente
+    - happy:
+      - feliz
+      - alegre
+      - contente
+
+  Portuguese:
+    - estudante: student
+    - estou:
+      - I am
+      - I'm
+    - em:
+      - in
+      - at
+      - "on"
+    - escola: school
+    - enfermeira: nurse
+    - está: is
+    - doente:
+      - ill
+      - sick
+    - estamos:
+      - we are
+      - we're
+    - cidade: city
+    - limpo: clean
+    - estão:
+      - they are
+      - they're
+      - you are
+      - you're
+    - prontos: ready
+    - você está:
+      - you are
+      - you're
+    - feliz: happy
+    - médicos: doctors

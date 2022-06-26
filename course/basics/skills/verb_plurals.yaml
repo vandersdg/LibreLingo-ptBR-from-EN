@@ -1,0 +1,81 @@
+Skill:
+  Name: Verb plurals
+  Id: 10
+
+New words: []
+
+Phrases:
+  - Phrase: Nós comemos bananas
+    Alternative versions:
+      - Nós comemos bananas
+      - Comemos bananas
+    Translation: We eat bananas
+
+  - Phrase: Vocês comem mais
+    Translation: You eat more
+
+
+  - Phrase: Nós bebemos muito
+    Alternative versions:
+      - Nós bebemos muito
+      - Bebemos muito
+    Translation: We drink a lot
+
+  - Phrase: Vocês bebem água
+    Translation: You drink water
+
+  - Phrase: Elas bebem cerveja
+    Alternative versions:
+      - Eles bebem cerveja
+    Translation: They drink beer
+
+  - Phrase: Nós somos cavalos
+    Alternative versions:
+      - Somos cavalos
+    Translation: We are horses
+
+  - Phrase: Vocês são gatos
+    Translation: You are cats
+
+  - Phrase: Eles são cães
+    Translation: They are dogs
+
+
+
+
+Mini-dictionary:
+  English:
+    - we:
+      - Nós
+      - Nós
+    - bananas:
+      - bananas
+      - bananas
+    - more: mais
+    - lot: muito
+    - they:
+      - Eles
+      - Elas
+    - horses: cavalos
+    - dogs: cães
+
+  Portuguese:
+    - Nós:
+      - we
+      - us
+    - Nós:
+      - we
+      - us
+    - comemos: we eat
+    - bananas: bananas
+    - Vocês: you (plural)
+    - comemos: we eat
+    - mais: more
+    - bebemos: we drink
+    - muito: a lot
+    - Elas: they
+    - Eles: they
+    - bebem: drink
+    - somos: we are
+    - cavalos: horses
+    - cães: dogs

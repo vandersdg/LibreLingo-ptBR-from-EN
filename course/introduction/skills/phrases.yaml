@@ -1,0 +1,116 @@
+Skill:
+  Name: Phrases
+  Id: 14
+
+New words: []
+
+Phrases:
+  - Phrase: Bom dia!
+    Translation: Good morning!
+    Alternative translations:
+      - Good day!
+
+  - Phrase: Bom dia, eu sou a Cecilia.
+    Alternative versions:
+      - Bom dia, sou Cecilia.
+    Translation: Good morning, I am Cecilia.
+
+  - Phrase: Eu me chamo José
+    Alternative versions:
+      - Me chamo José
+      - Meu nome é José
+    Translation: My name is José
+    Alternative translations:
+      - I am called José
+      - I'm called José
+
+  - Phrase: Como vai?
+    Translation: How are you?
+
+  - Phrase: E, aí?
+    Translation: What's up?
+
+  - Phrase: Prazer em conhecê-lo
+    Translation: Nice to meet you
+    Alternative translations:
+      - Nice meeting you
+
+  - Phrase: Até logo!
+    Translation: See you later!
+    Alternative translations:
+      - See you soon!
+
+  - Phrase: Qual é o seu nome?
+    Translation: What's your name?
+    Alternative translations:
+      - What is your name?
+
+  - Phrase: Boa tarde!
+    Translation: Good afternoon!
+    Alternative translations:
+      - Good evening!
+
+  - Phrase: Boa noite, José!
+    Translation: Good night, José!
+
+Mini-dictionary:
+  English:
+    - morning:
+      - manhã
+    - my:
+      - meu
+    - name: nome
+    - what's:
+      - qual é
+    - up:
+      - acima
+      - para cima
+      - até
+    - nice:
+      - bonito
+      - bonita
+      - agradável
+      - bem
+      - bom
+      - ótimo
+    - meet:
+      - conhecer
+      - encontrar-se
+    - see:
+      - ver
+      - vê
+      - vejo
+      - veem
+    - later:
+      - mais tarde
+      - depois
+      - logo
+    - afternoon: tarde
+    - night: noite
+
+  Portuguese:
+    - bom: good
+    - dias: days
+    - chamo: I call
+    - que: what
+    - tal: such
+    - vai:
+      - goes
+    - gosto:
+      - taste
+      - liking
+      - pleasure
+    - até: until
+    - logo:
+      - soon
+      - then
+      - later
+    - como:
+      - how
+      - Sorry? What?
+    - você: you
+    - chama: call
+    - boa: good
+    - tarde: afternoon
+    - noite: night
+
