@@ -32,3 +32,11 @@ Modules:
   - basics/
   - introduction/
   - activities/
+
+Settings:
+  Audio:
+    Enabled: True
+    TTS:
+      - Provider: Polly
+        Voice: Vitoria
+        Engine: standard
