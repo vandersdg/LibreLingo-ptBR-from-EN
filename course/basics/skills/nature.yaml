@@ -116,3 +116,23 @@ Phrases:
 
   - Phrase: Mar ou montanha?
     Translation: Sea or mountain?
+
+Mini-dictionary:
+  English:
+    - beach: praia
+    - sea: mar
+    - sun: sol
+    - river: rio
+    - lake: lago
+    - mountain: montanha
+    - trip: viagem
+    - sky: céu
+      
+  Brazilian Portuguese:
+    - praia: beach
+    - mar: sea
+    - sol: sun
+    - rio: river
+    - lago: lake
+    - viagem: trip
+    - céu: sky
