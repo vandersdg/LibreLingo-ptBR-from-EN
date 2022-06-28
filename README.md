@@ -1,3 +1,3 @@
 # LibreLingo-ptBR-from-EN
 
-Brazilian portuguese course for English speakers
+Brazilian Portuguese course for English speakers
