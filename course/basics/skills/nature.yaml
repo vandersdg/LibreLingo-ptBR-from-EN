@@ -127,7 +127,8 @@ Mini-dictionary:
     - mountain: montanha
     - trip: viagem
     - sky: céu
-    - for: para
+    - to: para
+    - the: a
       
   Brazilian Portuguese:
     - praia: beach
@@ -137,4 +138,6 @@ Mini-dictionary:
     - lago: lake
     - viagem: trip
     - céu: sky
-    - para: for
+    - para: to
+    - ou: or
+    - a: the

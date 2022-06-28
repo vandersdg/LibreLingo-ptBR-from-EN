@@ -147,10 +147,22 @@ Mini-dictionary:
       - vermelhos
       - vermelha
       - vermelhas
+    - the:
+      - a
+      - o
+      - as
+      - os
 
   Brazilian Portuguese:
     - gatos: cats
     - verdes: green
     - bonitas: beautiful
-    - aas: the
     - vermelhas: red
+    - patos: ducks
+    - médicos: doctors
+    - óculos: glasses
+    - grandes: big (plural)
+    - praias: beaches
+    - estudantes: students
+    - camisas: shirts
+    
