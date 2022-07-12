@@ -15,7 +15,7 @@ Phrases:
       - Bom dia, sou Cecilia.
     Translation: Good morning, I am Cecilia.
 
-  - Phrase: Eu me chamo José
+  - Phrase: Meu nome  José
     Alternative versions:
       - Me chamo José
       - Meu nome é José
@@ -92,6 +92,7 @@ Mini-dictionary:
     - bom: good
     - dia: day
     - dias: days
+    - chama: call
     - chamo: I call
     - que: what
     - tal: such
@@ -110,9 +111,12 @@ Mini-dictionary:
       - how
       - Sorry? What?
     - você: you
-    - chama: call
+    - nome: name
     - boa: good
     - tarde: afternoon
     - noite: night
     - Cecilia: personal name
+    - José: personal name
+    - é: is
+    
 
