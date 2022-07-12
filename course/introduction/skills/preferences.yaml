@@ -46,11 +46,6 @@ Phrases:
       - Gosta de café?
     Translation: Do you like coffee?
 
-  - Phrase: Eu gosto de macarrão
-    Alternative versions:
-      - Gosto de macarrão
-    Translation: I like macarrão
-
   - Phrase: Eu gosto de cerveja
     Alternative versions:
       - Gosto de cerveja
@@ -68,9 +63,6 @@ Phrases:
     Alternative versions:
       - Bebo vinho
     Translation: I drink wine
-
-  - Phrase: Cecília não come macarrão
-    Translation: Cecilia doesn't eat macarrão
 
   - Phrase: Uma cerveja, por favor!
     Translation: A beer please!
@@ -95,6 +87,28 @@ Mini-dictionary:
     - doesn't: "não"
 
   Brazilian Portuguese:
-    - uma:
+    - um:
       - a
       - one
+    - uma:
+      - a (fem.)
+      - one (fem.)
+    - você: you
+    - café: coffe
+    - vinho: wine
+    - cerveja: beer
+    - o: the
+    - gosta: like
+    - gosto: I like
+    - eu: I
+    - de:
+      - of
+    - não:
+      - no
+      - don't
+    - ele: he
+    - come: eat
+    - carne: meat
+    - bebo: I drink
+    - Cecília: personal name
+    - por favor: please
