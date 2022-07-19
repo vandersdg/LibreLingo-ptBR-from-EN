@@ -77,16 +77,20 @@ Phrases:
 
 
 Two-way-dictionary:
-    - do: faz, faço, fazes, fazemos
+    - do: faz
     - don't: "não"
     - doesn't: "não"
     - one: um
-    - a: um, uma
+    - a: um
+    - a: uma
     - you: você
     - coffe: café
     - wine: vinho
     - beer: cerveja
-    - the: o, a, os, as 
+    - the: o 
+    - the: a
+    - the: os
+    - the: as
     - like: gosta
     - I like: gosto
     - I: eu
