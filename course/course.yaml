@@ -35,7 +35,7 @@ Modules:
 
 Settings:
   Audio:
-    Enabled: True
+    Enabled: False
     TTS:
       - Provider: Polly
         Voice: Vitoria

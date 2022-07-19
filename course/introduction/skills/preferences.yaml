@@ -76,39 +76,25 @@ Phrases:
       - You don't like bread?
 
 
-Mini-dictionary:
-  English:
-    - do:
-      - faz
-      - faço
-      - fazes
-      - fazemos
+Two-way-dictionary:
+    - do: faz, faço, fazes, fazemos
     - don't: "não"
     - doesn't: "não"
-
-  Brazilian Portuguese:
-    - um:
-      - a
-      - one
-    - uma:
-      - a (fem.)
-      - one (fem.)
-    - você: you
-    - café: coffe
-    - vinho: wine
-    - cerveja: beer
-    - o: the
-    - gosta: like
-    - gosto: I like
-    - eu: I
-    - de:
-      - of
-    - não:
-      - no
-      - don't
-    - ele: he
-    - come: eat
-    - carne: meat
-    - bebo: I drink
-    - Cecília: personal name
-    - por favor: please
+    - one: um
+    - a: um, uma
+    - you: você
+    - coffe: café
+    - wine: vinho
+    - beer: cerveja
+    - the: o, a, os, as 
+    - like: gosta
+    - I like: gosto
+    - I: eu
+    - of: de
+    - no: não
+    - he: ele
+    - eat: come
+    - meat: carne
+    - I drink: bebo
+    - Cecilia: Cecilia
+    - please: por favor
